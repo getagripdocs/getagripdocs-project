@@ -1,4 +1,4 @@
-# First trip out
+# First trip out - 30/1-2019
 
 We (Nils and William) had a weekend excursion to Stavanger, where the headquarters of Bolder 
 are located.  
