@@ -1,1 +1,8 @@
 site_name: Get A Grip Docs
+nav:
+  - Home: index.md
+  - Group: group.md
+  - Docs: docs.md
+  - Weekly: weekly.md
+  - Blog: blog.md
+theme: material

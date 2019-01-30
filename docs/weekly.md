@@ -1,0 +1,1 @@
+# Weekly documentation (hours, referendums, tasks completed)
